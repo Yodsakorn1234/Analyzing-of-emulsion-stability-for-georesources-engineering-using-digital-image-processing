@@ -9,7 +9,9 @@ $pip install <namepacket>
 How to work :
 
 1.candy edge -> Check picture In Folder"Lab"
+
 2.snake model -> Check picture In Folder"snake2count"
+
 3.Count_shapes # -> Check picture In Folder "FINAL_output"
 
 คู่มือการใช้โปรแกรมและการตั้งค่ากล้องของโปรเจค:
