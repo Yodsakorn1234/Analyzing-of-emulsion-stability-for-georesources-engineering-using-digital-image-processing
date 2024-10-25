@@ -4,7 +4,7 @@ import math
 import matplotlib.pyplot as plt
 
 # Load the image
-image_path = "t19.png"
+image_path = " file Picture of referance "
 image = cv2.imread(image_path)
 
 # Convert the image to HSV for easier color detection
