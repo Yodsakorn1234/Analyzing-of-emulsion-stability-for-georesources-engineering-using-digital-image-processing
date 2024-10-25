@@ -4,19 +4,19 @@ Using in Vs code or pyCharm
 
 import (namepacket)
 In CMD
-$pip install namepacket
+$pip install <namepacket>
 
 How to work :
 
-1.candy edge -> capture pic1
-2.snake model # use pic1 to this code -> capture pic2
-3.Count_shapes # use pic2 to this code -> Final
+1.candy edge -> Check picture In Folder"Lab"
+2.snake model -> Check picture In Folder"snake2count"
+3.Count_shapes # -> Check picture In Folder "FINAL_output"
 
-คู่มือการใช้โปรแกรมของโปรเจค:
+คู่มือการใช้โปรแกรมและการตั้งค่ากล้องของโปรเจค:
 https://docs.google.com/document/d/1ZnZnQCHl9NwPY_Oj_jeLPVc87INDrZPlNapUcXn87zs/edit?tab=t.0#heading=h.67mcnurg72in
 
-Design by 
 
+Design by 
 Thananchai Chaimanee 630612101 
 Yodsakorn Likitrungson 630612109 
 Khachen chaiyo 630612177
