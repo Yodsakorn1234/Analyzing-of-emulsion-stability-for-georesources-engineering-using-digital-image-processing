@@ -2,9 +2,9 @@
 
 Using in Vs code or pyCharm
 
-import (namepacket)
-In CMD
-$pip install <namepacket>
+++ ต้องติดตั้ง Packet ก่อนเพื่อใช้งาน
+$pip install numpy opencv-python imageio scipy matplotlib
+
 
 How to work :
 
