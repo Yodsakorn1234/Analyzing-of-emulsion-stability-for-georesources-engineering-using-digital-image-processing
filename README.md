@@ -20,9 +20,9 @@ https://docs.google.com/document/d/1ZnZnQCHl9NwPY_Oj_jeLPVc87INDrZPlNapUcXn87zs/
 
 Design by :
 
-Thananchai Chaimanee 630612101 
-Yodsakorn Likitrungson 630612109 
-Khachen chaiyo 630612177
+Thananchai Chaimanee , 
+Yodsakorn Likitrungson ,
+Khachen chaiyo 
 
 
 ## If you don't understand, ask. https://chat.openai.com/
