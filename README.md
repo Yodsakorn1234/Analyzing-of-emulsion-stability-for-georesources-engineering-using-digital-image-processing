@@ -16,7 +16,8 @@ How to work :
 https://docs.google.com/document/d/1ZnZnQCHl9NwPY_Oj_jeLPVc87INDrZPlNapUcXn87zs/edit?tab=t.0#heading=h.67mcnurg72in
 
 
-Design by 
+Design by :
+
 Thananchai Chaimanee 630612101 
 Yodsakorn Likitrungson 630612109 
 Khachen chaiyo 630612177
